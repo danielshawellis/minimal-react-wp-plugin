@@ -1,15 +1,15 @@
 module.exports = {
-  entry: __dirname + '/src/index.js',
+  entry: __dirname + '/src/js/index.js',
   output: {
     filename: 'minimal-react-plugin.js',
     path: __dirname + '/assets/js'
   },
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.js$/,
         exclude: /node_modules/,
-        loader: 'babel-loader'
+        use: 'babel-loader'
       }
     ]
   }
