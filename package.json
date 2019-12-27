@@ -1,0 +1,24 @@
+{
+  "name": "minimal-react-plugin",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000i\u0000n\u0000i\u0000m\u0000a\u0000l\u0000-\u0000r\u0000e\u0000a\u0000c\u0000t\u0000-\u0000w\u0000p\u0000-\u0000p\u0000l\u0000u\u0000g\u0000i\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielshawellis/minimal-react-wp-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielshawellis/minimal-react-wp-plugin/issues"
+  },
+  "homepage": "https://github.com/danielshawellis/minimal-react-wp-plugin#readme",
+  "devDependencies": {
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
+  }
+}
